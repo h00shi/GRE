@@ -1,8 +1,11 @@
+### MOSTLY COMMON WORDS 1
+
 (C1) ACRIMONY: bitterness and ill will
 
 (C1) FRUGAL: unwilling to spend money (spending wisely)
-MISER:
+(B1) THRIFTY: frugal
 (C1) PARSIMONOUS: very stingy.
+MISER:
 STINGY:
 
 (C1) PROFLIGATE: noun and adjective, spending a lot of money.
@@ -84,7 +87,8 @@ FLEDGE: to flap, move wings for a bird (fledgling: young bird, immature)
 CULINARY: related to cooking
 QUIP: make a slick commetn
 
-(C1) AUSPICIOUS: a fortunate event 
+(C1) AUSPICIOUS: a fortunate event
+(B1) SERENDIPITY: somethinng good that happens by accident.
 (H) AUDACIOUS: brave
 
 UNDERMINE: to weaken, to show something is not as good as it claims
@@ -96,6 +100,8 @@ UNDERMINE: to weaken, to show something is not as good as it claims
 (C1) EXTANT: still existing
 
 (C1) BETRAY: apart from the common one: to reveal
+(B1) TELLING: revealing
+(B1) TELTALE: a telling sign
 
 (C1) INTIMATE: apart from common ones: to say something implicitly
 
@@ -109,11 +115,15 @@ UNDERMINE: to weaken, to show something is not as good as it claims
 
 (C1) DISINTERESTED: neutral, unbiased
 
-(C1) EGREGIOUS: standing out because of being bad.
 
 (C1) LACONIC: described in a few words.
+(B1) RETIRING: shy
 
 (C1) GREGARIOUS: sociable
+(B1) AFFABLE: likeable, easy to talk to
+
+(B1) AMICABLE: lovely, likeable (for object)
+(B1) AMIABLE: lovely, likeable (for people)
 
 HUNKY: large, strong, and sexually attractive.
 
@@ -124,3 +134,46 @@ HUNKY: large, strong, and sexually attractive.
 (C1) ABERRATION: some bizzare thing that can happen
 
 (C1) RESTIVE: restless.
+
+### MOSTLY BASIC WORDS 1
+
+(B1) ZENTIH: the pinnacle of something, culmination, climax
+(B1) ACME: example: this bus is the acme of comfort
+(B1) CULMINATION: almost the same as acme (verb: culminate)
+(B1) PINNACLE: summit
+CLIMAX:
+
+(B1) PINE: to yearn for something.
+
+SOIREES: an evening party
+GARRET: something similar to attic.
+
+(B1) ENTHRAL: mesmerize
+
+(B1) VARIANCE: the quality of being different
+
+(B1) DEMEAN: to cause someone to lose dignity and respect.
+CONTEMPT: the fealing that someone is worthless
+
+(B1) CENSOR: verb and noun, you know well what it means.
+
+(B1) UNNERVE: make nervious and anxious
+
+(B1) PROFUSE: a lot
+(B1) PERUSE: read carefully
+
+(B1) EMBROIL: to be waist deep into something
+
+EMBROGLIO: an embarassing situation
+
+AROUSE: awaken, evoke
+DISTASTE: dislike
+
+
+(C1) EGREGIOUS: standing out because of being bad.
+IGNOBLE: not honourable in character or purpose
+SORDID: including ignoble acts.
+
+(B1) REMISS: failing to do ones duties
+
+(B1) UNDERWRITE: to support financially.
