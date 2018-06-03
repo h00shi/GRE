@@ -5,12 +5,13 @@
 (C1) FRUGAL: unwilling to spend money (spending wisely)
 (B1) THRIFTY: frugal
 (C1) PARSIMONOUS: very stingy.
-MISER:
+(B1) MISER: stingy + greedy
 STINGY:
 
 (C1) PROFLIGATE: noun and adjective, spending a lot of money.
-SPENDTHRIFT:
+(B1) SPENDTHRIFT: profligate
 (C1) PRODIGAL: spending a lot of money noun: prodigality (used for actions, e.g., prodigal ceremony)
+
 
 (C1) COMMENSURATE: be in proportion with
 
@@ -24,9 +25,9 @@ SLANDER:
 LIBEL:
 
 
-HARANGUE: verb and noun, long pompus speech
-TIRADE: a long speech (maybe hatfull)
-SCREED: same as tirade
+(C1) HARANGUE: verb and noun, long pompus speech
+(B1) TIRADE: a long speech (maybe hatfull)
+(B1) SCREED: same as tirade
 
 REPRIMAND:
 REPROUCH:
@@ -78,9 +79,9 @@ UNQUINCHABLE:
 (C1) VENERATE: to respect
 REVERE: same as venerate
 
-VINDICATE: to be forgiven or proven innocent.
-VINDICTIVE: wanting revenge.
-INDICATE: to show that someone is indeed guitly
+(C1) VINDICATE: to be forgiven or proven innocent.
+(B1) VINDICTIVE: wanting revenge.
+(B1) INDICT: to show that someone is indeed guitly (formally charge)
 
 (C1) PEROCHIAL: very limited in scope
 FLEDGE: to flap, move wings for a bird (fledgling: young bird, immature)
@@ -170,6 +171,7 @@ AROUSE: awaken, evoke
 DISTASTE: dislike
 
 
+(B1) DIABOLICAL: wicked like the evil.
 (C1) EGREGIOUS: standing out because of being bad.
 IGNOBLE: not honourable in character or purpose
 SORDID: including ignoble acts.
@@ -177,3 +179,34 @@ SORDID: including ignoble acts.
 (B1) REMISS: failing to do ones duties
 
 (B1) UNDERWRITE: to support financially.
+
+(B1) CANDID: honest
+
+(B1) STIPEND: allowance (what they pay us graduate students)
+
+(B1) MACABRE: portrating death
+
+(B1) TENDER: make a formal offer (apart from tender meat)
+
+(B1) INUNDATE: flood under water (or something else metaphorically)
+
+(B1) DOG, HOUND: persue something
+
+(B1) INSOLVENT: broke.
+
+(B1) INDIGNANT: adjective, feeling anger because someone ignored your right.
+
+(B1) BLEAK: sad
+
+(B1) DUPE: swindle, trick, or someone who falls for frauds easily
+
+(B1) SLAPDASH: done in a hurried way.
+HAPHAZARD: lacking organization.
+
+(B1) REPROBATE: criminal, someone without morals which is disapproved
+
+INFLAMATORY: controversial
+
+(B1) ERR: make an error
+
+(B1) THOROUGHGOING: thorough
